@@ -19,7 +19,7 @@ public class Kardus {
         }
         return false;
     }
-
+//coba coba berhadiah
     public void tampilkanIsiKardus() {
         System.out.println("Isi kardus:");
         for (Buku buku : bukuDalamKardus) {
